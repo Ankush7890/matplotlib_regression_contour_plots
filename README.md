@@ -1,0 +1,1 @@
+Small python scripts implementing non linear regression, using scipy and contour plots.
